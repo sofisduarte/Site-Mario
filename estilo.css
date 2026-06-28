@@ -1,0 +1,50 @@
+        h1{
+         color:rgb(87, 29, 29); font-size:40px; text-align:center;
+        }
+        h2{
+         color:brown; font-size:40px; text-align:center
+        }
+        .imagemmario{
+            display:block;
+            margin:auto;
+        }
+        .categoriajogo{
+         color:green; font-size:25px;
+         text-align:center;
+        }
+        a:link{
+            color: brown;
+            text-decoration: none;
+        }
+        a:visited{
+            color:rgb(109, 50, 50);
+        }
+        #nintendo{
+            color:rgb(85, 85, 185)
+        }
+        p{      
+        font-size:22px; color:rgba(2, 2, 2, 0.699); text-align:center
+        }
+        body{
+            background-color:rgb(214, 191, 189)
+        }
+        .centro{
+            text-align:center
+        }
+        ul{
+            list-style:none;
+            padding-left:0px;
+        }
+        .jogoscitados img{
+            width:100px;
+            height:100px;
+            vertical-align:middle;
+        }
+        .jogoscitados li{
+            font-size:20px;
+            
+        }
+        .jogoscitados li:hover{
+            font-size:25px;
+        }
+        
