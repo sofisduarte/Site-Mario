@@ -1,16 +1,33 @@
+        nav{
+            text-align:center;
+            font-size:40px;
+            padding:20px;
+            font-style:Verdana;
+            gap:40px;
+            display:flex;
+            background-color:rgb(204, 121, 121);
+            justify-content:center;
+        }
+        nav img{
+            width:70px;
+            height:70px;
+        }
         h1{
-         color:rgb(87, 29, 29); font-size:40px; text-align:center;
+         color:brown; font-size:40px; text-align:center;
         }
         h2{
          color:brown; font-size:40px; text-align:center
+        }
+         h3{
+         color:brown; font-size:20px;
         }
         .imagemmario{
             display:block;
             margin:auto;
         }
-        .categoriajogo{
-         color:green; font-size:25px;
-         text-align:center;
+        .imagemyoshi{
+            display:block;
+            margin:auto;
         }
         a:link{
             color: brown;
@@ -28,7 +45,7 @@
         body{
             background-color:rgb(214, 191, 189)
         }
-        .centro{
+        .ImagensCentralizadas{
             text-align:center
         }
         ul{
@@ -36,9 +53,8 @@
             padding-left:0px;
         }
         .jogoscitados img{
-            width:100px;
-            height:100px;
-            vertical-align:middle;
+            width:70px;
+            height:70px;
         }
         .jogoscitados li{
             font-size:20px;
@@ -47,4 +63,17 @@
         .jogoscitados li:hover{
             font-size:25px;
         }
-        
+    .jogo{
+            display:flex;
+            align-items:center;
+            gap:15px;
+        }
+    #colunas{
+            display:flex;
+            justify-content:center;
+            gap:120px;
+        }
+    .coluna{
+            width:45%;
+
+        }
